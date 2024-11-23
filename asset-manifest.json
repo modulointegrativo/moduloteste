@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moduloteste/static/css/main.f1abe646.css",
+    "main.js": "/moduloteste/static/js/main.812fbd03.js",
+    "index.html": "/moduloteste/index.html",
+    "main.f1abe646.css.map": "/moduloteste/static/css/main.f1abe646.css.map",
+    "main.812fbd03.js.map": "/moduloteste/static/js/main.812fbd03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1abe646.css",
+    "static/js/main.812fbd03.js"
+  ]
+}
